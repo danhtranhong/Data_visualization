@@ -1,0 +1,39 @@
+Year,Term,Course
+Year 1,Term 1,BIOL 1115: General Biology I
+Year 1,Term 1,CHEM 1120: General Chemistry I
+Year 1,Term 1,CPSC 1150: Program Design OR CPSC 1155: Program Design for Engineers
+Year 1,Term 1,MATH 1171: Calculus I OR MATH 1175: Calculus I with application to life sciences
+Year 1,Term 1,UT ENGL
+Year 1,Term 2,BIOL 1215: General Biology II
+Year 1,Term 2,CHEM 1220: General Chemistry II
+Year 1,Term 2,CPSC 1160: Algorithms and Data Structures I
+Year 1,Term 2,MATH 1271: Calculus II OR MATH 1275: Calculus II with application to life sciences
+Year 1,Term 2,UT ENGL
+Year 2,Term 3,BIOL 2415: Cell Biology
+Year 2,Term 3,CHEM 2216: Organic Chemistry for Life Sciences
+Year 2,Term 3,CPSC 1181: Object-oriented Computing
+Year 2,Term 3,STAT 1181: Descriptive and Elementary Inferential Statistics
+Year 2,Term 3,Non-Science Elective
+Year 2,Term 4,BIOL 2315: Biochemistry
+Year 2,Term 4,BIOL 2330: Introduction to Genetics
+Year 2,Term 4,CPSC 2221: Database Systems
+Year 2,Term 4,MATH 1252: Linear Systems OR MATH 2362 and MATH 2382: Linear Algebra w/lab
+Year 2,Term 4,EXPE 2300: Employment Strategies for Current Labour Market
+Year 3,Term 5,BIOL 3315: Evolution and Phylogenetics
+Year 3,Term 5,CPSC 2150: Algorithms and Data Structures II
+Year 3,Term 5,CPSC 3280: Cloud and Parallel Computing
+Year 3,Term 5,STAT 2281: Probability and Elementary Mathematical Statistics
+Year 3,Term 5,BINF 2100: Industry Topics
+Year 3,Term 6,BIOL 3430: Molecular Genetics
+Year 3,Term 6,CHEM 3216: Molecular Modelling
+Year 3,Term 6,CPSC 3260: Data Transformations
+Year 3,Term 6,STAT 3225: Statistical Methods for Biological and Health Sciences
+Year 3,Term 6,BINF 3100: Industry Topics
+Year 4,Term 7,BIOL 4315: Genomics Metagenomics and Transcriptomics
+Year 4,Term 7,CPSC 4160: Data Mining and Machine Learning
+Year 4,Term 7,BINF 4290: Bioinformatics
+Year 4,Term 7,BINF 4125: Capstone I
+Year 4,Term 8,BIOL 4415: Proteomics and Metabolomics
+Year 4,Term 8,CPSC 4260: Data Visualization
+Year 4,Term 8,BINF 4225: Capstone II
+Year 4,Term 8,BINF 4100: Industry Topics
